@@ -1,6 +1,6 @@
       ******************************************************************
       * Author: LUIS HENRIQUE GOMES
-      * Date:  / 10 / 2024
+      * Date: 18 / 10 / 2024
       * Purpose: DEMONSTRAR ALGUNS COMANDO UTILIZADOS NO DIA A DIA.
       * Tectonics: cobc
       ******************************************************************
